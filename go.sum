@@ -1,8 +1,4 @@
 github.com/tinashe-mundangepfupfu/dog v0.0.0-20231124225846-393086ddd9d3 h1:I28Iq33hE2An5mFMuPtVpTs55cw1hUdq2OJUCBtSwBQ=
 github.com/tinashe-mundangepfupfu/dog v0.0.0-20231124225846-393086ddd9d3/go.mod h1:0gShWMa478E5sX+kSNwqF7lv+p/QyrAKdS/eUj5tFjs=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124222515-75816b1d3c6c h1:K9z0thA5vJmXEaauh10qfR/ShLHnN0QJubit+U6UxZ0=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124222515-75816b1d3c6c/go.mod h1:dYYXMQYx4FZFZb1KIX0P3LJMA7eXICZfDFdjkGmEqr8=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124230328-f7ad1b04ab23 h1:0vVLMJyogZPmrEVVkc9JN9RVle6ptpmU4X9hkFZjdXo=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124230328-f7ad1b04ab23/go.mod h1:1jucYmx86HENpXla7838dB60xwmr8skDm3LSG7bI39k=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124231519-066395550e38 h1:Ql3gqPfsdTGjKIYDWDHJBP/SnwAni8XeWEMW73V8WLY=
-github.com/tinashe-mundangepfupfu/puppy v0.0.0-20231124231519-066395550e38/go.mod h1:1jucYmx86HENpXla7838dB60xwmr8skDm3LSG7bI39k=
+github.com/tinashe-mundangepfupfu/puppy v1.3.0 h1:86hbUgdjBHOZelH4QvUOZ6nUSrnTnav8kZowQv9Snns=
+github.com/tinashe-mundangepfupfu/puppy v1.3.0/go.mod h1:1jucYmx86HENpXla7838dB60xwmr8skDm3LSG7bI39k=
