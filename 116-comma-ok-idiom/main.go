@@ -21,6 +21,12 @@ func main() {
 
 	delete(an, "Steph")
 
+	if v, ok := an["Lucas"]; !ok { // statement; statement limit scope of variable v
+		fmt.Println("Key didnt exist")
+	} else {
+		fmt.Println("The value prints ", v)
+	}
+
 	// For range over a map
 	for k, v := range an {
 		fmt.Println(k, v)
